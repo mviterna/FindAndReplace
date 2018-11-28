@@ -3,7 +3,8 @@
 //  Date   : May, 21 2015
 //  File   : Program.cs
 //  Purpose: A quick .NET console app that allows users to find and replace a string across multiple Word documents at once
-//  Usage:            
+//  Usage  : Give the program a directory full of .docx files. Enter in a word to find in the documents, then enter the word to replace it with
+//           the application will then traverse all of the docx files in the given directory (not the sub-directories) and find and replace that text occurence
 //  ──────────────────────────────────────────────────────────────────────────────────────────────
 //Copyright 2015 Mark Viterna
 
